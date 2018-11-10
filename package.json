@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-plugin-rollbar",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to add Rollbar error tracking to your site",
+  "author": "Jere Piispanen <jere.piispanen@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jerep/gatsby-plugin-rollbar",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "rollbar"
+  ],
+  "main": "index.js"
+}

@@ -17,7 +17,7 @@ plugins: [
     resolve: "gatsby-plugin-rollbar",
     options: {
       accessToken: "YOUR_ROLLBAR_ACCESS_TOKEN",
-      // For all configuration options, see https://docs.rollbar.com/v1.0.0/docs/rollbarjs-configuration-reference
+      // For all configuration options, see https://docs.rollbar.com/docs/rollbarjs-configuration-reference
       captureUncaught: true,
       captureUnhandledRejections: true,
       payload: {
